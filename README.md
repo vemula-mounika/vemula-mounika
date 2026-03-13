@@ -196,9 +196,10 @@
 <tr>
 <td align="center">
   <br/>
-  <img src="https://img.shields.io/badge/%22From%20balance%20sheets%20to%20Git%20commits%20—%20the%20hustle%20never%20stopped.%22-Vemula%20Mounika-6AD3F7?style=for-the-badge&labelColor=0d1117" width="80%"/>
-  <br/><br/>
-  <i style="color:#a8dadc;">— Vemula Mounika</i>
+  <h3>✦ &nbsp; <em>"From balance sheets to Git commits — the hustle never stopped."</em> &nbsp; ✦</h3>
+  <br/>
+  <img src="https://img.shields.io/badge/—%20Vemula%20Mounika-Telangana%2C%20India-6AD3F7?style=flat-square&labelColor=0d1117"/>
+  <br/>
 </td>
 </tr>
 </table>
@@ -250,5 +251,5 @@ Hiring or just want to talk tech? My inbox is always open! 😊</p>
 
 <!-- FOOTER -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:9d50bb,50:6e48aa,75:3a7bd5,100:6AD3F7&height=140&section=footer&animation=twinkling"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:9d50bb,50:6e48aa,75:3a7bd5,100:6AD3F7&height=140&section=footer&text=Keep%20Building%20%F0%9F%9A%80&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=twinkling"/>
 </div>
