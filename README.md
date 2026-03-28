@@ -227,7 +227,7 @@ Hiring or just want to talk tech? My inbox is always open! 😊</p>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/vmounika-dev/">
+<a href="https://www.linkedin.com/in/vemulamounika1025/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
 </a>
 &nbsp;&nbsp;
